@@ -1,4 +1,4 @@
-# practiseoop
-Practising with OOP on C++
+# practiseoop\n
+Practising with OOP on C++\n
 Реализация класса:конструктора, деструктора и встроенной функции для всех конструкторов.
 Для работы с массивами!!!
